@@ -1,0 +1,14 @@
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.csproj.AssemblyReference.cache
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.AssemblyInfoInputs.cache
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.AssemblyInfo.cs
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.csproj.CoreCompileInputs.cache
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\bin\Debug\net10.0\CMS.Data.deps.json
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\bin\Debug\net10.0\CMS.Data.runtimeconfig.json
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\bin\Debug\net10.0\CMS.Data.dll
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\bin\Debug\net10.0\CMS.Data.pdb
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.dll
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\refint\CMS.Data.dll
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.pdb
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.genruntimeconfig.cache
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\ref\CMS.Data.dll
