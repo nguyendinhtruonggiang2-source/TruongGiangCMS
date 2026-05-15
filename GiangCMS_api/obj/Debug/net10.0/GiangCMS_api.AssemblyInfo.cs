@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GiangCMS_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a82ebf1a9a0b17fae97e1845bc1b24cf19d5876b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GiangCMS_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GiangCMS_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

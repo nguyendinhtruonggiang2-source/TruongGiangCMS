@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\giangcms_api\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|solutionrelative:giangcms_api\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\giangcms_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|solutionrelative:giangcms_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\giangcms_api\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|solutionrelative:giangcms_api\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\giangcms_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|solutionrelative:giangcms_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\cms.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\cms.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\cms.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\giangcms_api\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|solutionrelative:giangcms_api\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69D469A4-C592-95F5-A974-94EA0C05644F}|GiangCMS_api\\GiangCMS_api.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\giangcms_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +51,8 @@
       "RelativeMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\contexnts\\cmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\cms.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\cms.data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\cms.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\cms.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|solutionrelative:cms.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF5FA73E-37CB-69E7-D6AD-2EDA2D28480F}|CMS.Data\\CMS.Data.csproj|d:\\file_mon_hoc\\asp.net\\giangcms_solution\\cms.data\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,63 +74,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "GiangCMS_api\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "GiangCMS_api\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T08:28:05.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "GiangCMS_api\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "GiangCMS_api\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:25:22.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "GiangCMS_api\\Views\\Category\\Index.cshtml",
               "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "GiangCMS_api\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-15T07:43:21.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "GiangCMS_api\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "GiangCMS_api\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:39:43.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Program.cs",
-              "RelativeDocumentMoniker": "GiangCMS_api\\Program.cs",
-              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Program.cs",
-              "RelativeToolTip": "GiangCMS_api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:22:16.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GiangCMS_api.csproj",
-              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\GiangCMS_api.csproj",
-              "RelativeDocumentMoniker": "GiangCMS_api\\GiangCMS_api.csproj",
-              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\GiangCMS_api.csproj*",
-              "RelativeToolTip": "GiangCMS_api\\GiangCMS_api.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-15T07:20:56.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CategoryProduct.cs",
               "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\CategoryProduct.cs",
               "RelativeDocumentMoniker": "CMS.Data\\Entities\\CategoryProduct.cs",
@@ -130,12 +125,11 @@
               "RelativeToolTip": "CMS.Data\\Entities\\CategoryProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:03:24.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T07:03:24.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "CMSDbContext.cs",
               "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Contexnts\\CMSDbContext.cs",
               "RelativeDocumentMoniker": "CMS.Data\\Contexnts\\CMSDbContext.cs",
@@ -148,6 +142,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entities\\User.cs",
+              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\User.cs",
+              "RelativeToolTip": "CMS.Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:01:10.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Program.cs",
+              "RelativeDocumentMoniker": "GiangCMS_api\\Program.cs",
+              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Program.cs",
+              "RelativeToolTip": "GiangCMS_api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:22:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GiangCMS_api.csproj",
+              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\GiangCMS_api.csproj",
+              "RelativeDocumentMoniker": "GiangCMS_api\\GiangCMS_api.csproj",
+              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\GiangCMS_api.csproj",
+              "RelativeToolTip": "GiangCMS_api\\GiangCMS_api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-15T07:20:56.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entities\\Order.cs",
+              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Order.cs",
+              "RelativeToolTip": "CMS.Data\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:01:28.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CMS.Data\\Entities\\Product.cs",
+              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Product.cs",
+              "RelativeToolTip": "CMS.Data\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:00:58.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "GiangCMS_api\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "GiangCMS_api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:39:43.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\GiangCMS_api\\appsettings.json",
               "RelativeDocumentMoniker": "GiangCMS_api\\appsettings.json",
@@ -159,19 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entities\\Product.cs",
-              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Product.cs",
-              "RelativeToolTip": "CMS.Data\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:00:58.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "CMS.Data\\Entities\\Customer.cs",
@@ -183,31 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entities\\User.cs",
-              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\User.cs",
-              "RelativeToolTip": "CMS.Data\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:01:10.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "CMS.Data\\Entities\\Order.cs",
-              "ToolTip": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Order.cs",
-              "RelativeToolTip": "CMS.Data\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:01:28.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\OrderDetail.cs",
               "RelativeDocumentMoniker": "CMS.Data\\Entities\\OrderDetail.cs",
@@ -219,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "CMS.Data\\Entities\\Category.cs",
@@ -231,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Post.cs",
               "DocumentMoniker": "D:\\file_mon_hoc\\asp.net\\GiangCMS_solution\\CMS.Data\\Entities\\Post.cs",
               "RelativeDocumentMoniker": "CMS.Data\\Entities\\Post.cs",

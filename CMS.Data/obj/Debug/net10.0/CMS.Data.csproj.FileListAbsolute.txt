@@ -12,3 +12,4 @@ D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\refint\CMS.
 D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.pdb
 D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.genruntimeconfig.cache
 D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\ref\CMS.Data.dll
+D:\file_mon_hoc\asp.net\GiangCMS_solution\CMS.Data\obj\Debug\net10.0\CMS.Data.sourcelink.json

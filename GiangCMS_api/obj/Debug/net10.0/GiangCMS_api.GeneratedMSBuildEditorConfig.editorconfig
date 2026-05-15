@@ -26,3 +26,7 @@ build_property.EnableCodeStyleSeverity =
 [D:/file_mon_hoc/asp.net/GiangCMS_solution/GiangCMS_api/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/file_mon_hoc/asp.net/GiangCMS_solution/GiangCMS_api/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

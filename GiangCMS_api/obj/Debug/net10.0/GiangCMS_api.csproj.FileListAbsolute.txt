@@ -143,3 +143,4 @@ D:\file_mon_hoc\asp.net\GiangCMS_solution\GiangCMS_api\bin\Debug\net10.0\CMS.Dat
 D:\file_mon_hoc\asp.net\GiangCMS_solution\GiangCMS_api\bin\Debug\net10.0\CMS.Data.pdb
 D:\file_mon_hoc\asp.net\GiangCMS_solution\GiangCMS_api\obj\Debug\net10.0\GiangCMS_api.RazorAssemblyInfo.cache
 D:\file_mon_hoc\asp.net\GiangCMS_solution\GiangCMS_api\obj\Debug\net10.0\GiangCMS_api.RazorAssemblyInfo.cs
+D:\file_mon_hoc\asp.net\GiangCMS_solution\GiangCMS_api\obj\Debug\net10.0\GiangCMS_api.sourcelink.json
