@@ -33,5 +33,12 @@ namespace CMS.Data.Contexts
 
         // Bảng chi tiết đơn hàng
         public DbSet<OrderDetail> OrderDetails { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Order>()
+                .Property(o => o.TotalPrice)
+                .HasColumnType("decimal(18,2)");
+        }
     }
 }

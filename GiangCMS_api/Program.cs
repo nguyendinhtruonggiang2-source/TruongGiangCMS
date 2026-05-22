@@ -3,14 +3,13 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// thêm MVC + Views
 builder.Services.AddControllersWithViews();
 
-var app = builder.Build();
+builder.Services.AddDbContext<CMSDbContext>(options =>
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection")));
 
-if (app.Environment.IsDevelopment())
-{
-}
+var app = builder.Build();
 
 app.UseHttpsRedirection();
 
@@ -20,9 +19,8 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-// route MVC
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Category}/{action=Index}/{id?}");
 
 app.Run();
