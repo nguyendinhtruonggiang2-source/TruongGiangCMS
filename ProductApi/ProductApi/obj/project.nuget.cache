@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7+apl51jWg=",
+  "success": true,
+  "projectFilePath": "D:\\file_mon_hoc\\asp.net\\ProductApi\\ProductApi\\ProductApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIANG NGUYEN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\GIANG NGUYEN\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
